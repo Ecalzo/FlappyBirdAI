@@ -8,10 +8,10 @@ The repo is broken up by the different models. With the model code being mostly 
 # DQN Results
 ![](graphs_for_README/Neural_Network.png)
 
-### More to come in this area
+## More to come in this area
 Will contain specifics on QLearning 
 
 ## Inspiration & Credit:
-PyGame port of FlappyBird: [sourabhv](https://github.com/sourabhv/FlapPyBird)
-Inspiration from [maurock](https://github.com/maurock/snake-ga) and his Snake implementation of DQN
+* PyGame port of FlappyBird: [sourabhv](https://github.com/sourabhv/FlapPyBird)
+* Inspiration from [maurock](https://github.com/maurock/snake-ga) and his Snake implementation of DQN
 
